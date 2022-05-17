@@ -104,7 +104,7 @@ dist
 .tern-port
 
 # VSCode workspace
-.code-workspace
+*.code-workspace
 
 # VSCode extension
 out
